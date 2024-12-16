@@ -12,7 +12,7 @@
 
 <sup>1</sup>Technical University of Munich, <sup>2</sup>Google, <sup>3</sup>Munich Center for Machine Learning, <sup>4</sup>Visualais
 
-<small><br><sup>*</sup>Equal Contribution
+<small><sup>*</sup>Equal Contribution
 
 </div>
 
