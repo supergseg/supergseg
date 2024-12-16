@@ -11,6 +11,9 @@
 [Siyun Liang](https://siyun-liang.github.io/)<sup>1*</sup>, [Sen Wang](https://scholar.google.com/citations?user=OxZ9S6oAAAAJ&hl=en&oi=ao)<sup>1*</sup>, [Kunyi Li](https://li-kunyi.github.io/)<sup>1</sup>, [Michael Niemeyer](https://m-niemeyer.github.io/)<sup>2</sup>, [Stefano Gasperini](https://www.cs.cit.tum.de/camp/members/stefano-gasperini/)<sup>1,3,4</sup>, [Nassir Navab](https://www.professoren.tum.de/en/navab-nassir)<sup>1</sup>, [Federico Tombari](https://federicotombari.github.io/)<sup>1,2</sup>
 
 <sup>1</sup>Technical University of Munich, <sup>2</sup>Google, <sup>3</sup>Munich Center for Machine Learning, <sup>4</sup>Visualais
+
+<small><br><sup>*</sup>Equal Contribution
+
 </div>
 
 ![Teaser image](assets/teaser.png)
